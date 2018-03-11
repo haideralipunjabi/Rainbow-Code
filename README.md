@@ -43,6 +43,8 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #124.2 - Linting and Neuroevolution Continued](https://youtu.be/ASnCXW6pPSY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #124.1 - Linting and Neuroevolution](https://youtu.be/sIeN74GrYHE?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #123.2: Doodle Classifier Continued](https://youtu.be/Up0bkN4I_f4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #123.1: Doodle Classifier](https://youtu.be/lN6Lqva6OGg?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #122: filter(), sort() and 2048](https://youtu.be/ze_o4YvZ6-s?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
