@@ -43,6 +43,8 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #128: Quadtrees](https://youtu.be/MxnqJGwu2cc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #127: Phaser Game Development with Catt Small](https://youtu.be/O8EsAVFtDJc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #126.2: Pi Day Continued](https://youtu.be/QYUROUJk_Sc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #126.1: Happy Pi Day!](https://youtu.be/BOk4Dl-gw14?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #125: loadBytes p5.js Pull Request](https://youtu.be/Io7TWc8LbAk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
