@@ -44,6 +44,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 
 # Past Live Streams
 * [Live Stream #130: Color Predictor and Quadtree Continued](https://youtu.be/w1Np5meK4_Q?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #129: Jabril visits The Coding Train!](https://youtu.be/L9InSe46jkw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #128: Quadtrees](https://youtu.be/MxnqJGwu2cc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #127: Phaser Game Development with Catt Small](https://youtu.be/O8EsAVFtDJc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #126.2: Pi Day Continued](https://youtu.be/QYUROUJk_Sc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
