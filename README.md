@@ -43,6 +43,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #131: JavaScript Hardware with Noopkat!](https://youtu.be/UwX0ntmJ61A?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #130: Color Predictor and Quadtree Continued](https://youtu.be/w1Np5meK4_Q?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #129: Jabril visits The Coding Train!](https://youtu.be/L9InSe46jkw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #128: Quadtrees](https://youtu.be/MxnqJGwu2cc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
