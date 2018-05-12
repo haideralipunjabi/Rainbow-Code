@@ -43,6 +43,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #136: More Tensorflow.js + Fire Effect Challenge](https://youtu.be/PAmwKVCsg54?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #135: May 4th Challenge + TensorFlow.js Continued](https://youtu.be/ORwIZCKJA-Q?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #134: Introduction to Tensorflow.js](https://youtu.be/2v5XteIQ8XM?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #133: Neuroevolution Flappy Bird Continued](https://youtu.be/emjv5tr-m7Q?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
