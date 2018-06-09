@@ -43,6 +43,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #141: XOR with TensorFlow.js](https://youtu.be/_wC4sn5qKQw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #140: Polynomial Regression + TensorFlow.js layers API](https://youtu.be/WVZ653QYjvQ?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #139: Linear Regression with TensorFlow.js](https://youtu.be/NZR-N_dhK2M?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #138: Promises Continued](https://youtu.be/mETDQDBwOi0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
