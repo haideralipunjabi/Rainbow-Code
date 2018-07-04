@@ -43,6 +43,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #145: TensorFlow.js Color Classifier Continued](https://youtu.be/gsJvZjlfNko?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #144: Map Visualization of 500k Subscribers!](https://youtu.be/UI5c1te1MjI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #143: Color Classifier with TensorFlow.js](https://youtu.be/jHnyFNMOffo?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #142: Sandpile and Barnsley Fern Coding Challenges](https://youtu.be/_9ZerP7pGvc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
