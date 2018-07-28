@@ -43,6 +43,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #147: A Beginners Guide to Machine Learning with ml5.js](https://youtu.be/Sz52VkVcW5o?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #146: Recamán's Sequence + ml5 Image Classifier](https://youtu.be/XXwjcxMOA8s?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #145: TensorFlow.js Color Classifier Continued](https://youtu.be/gsJvZjlfNko?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #144: Map Visualization of 500k Subscribers!](https://youtu.be/UI5c1te1MjI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
