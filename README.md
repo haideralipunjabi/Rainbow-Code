@@ -43,7 +43,12 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #156: word2vec & Seven-Segment Display](https://youtu.be/b8RwO1k9DXc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #155: Mastodon Image Bot with Processing](https://youtu.be/rkwn-7kZzjY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #154: Quick p5 web editor tutorials](https://youtu.be/tOJTDt1EtFU?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #153: Mastodon](https://youtu.be/4L4JyWyb3oI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #152: Lissajous Curve Table](https://youtu.be/Adk4LjmYyYg?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #151: 2018 Workflow (VSC, iTerm, zsh, etc.)](https://youtu.be/KtcC0T1w3pc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #150: Coding for Total Beginners with p5.js + Snake Game Redux](https://youtu.be/wTDDsOZwdQY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #149: More ml5.js](https://youtu.be/mfOL2RIyk2c?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #148.2: 4D Hypercube](https://youtu.be/M_YNwb7UudI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
