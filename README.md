@@ -43,6 +43,10 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #160: ml5 Load/Save + Quick, Draw!](https://youtu.be/fnoOFQK3tPQ?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #159: Logo Interpreter Continued](https://youtu.be/kLIHhOEPHG0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #158: Logo Interpreter](https://youtu.be/flHxQpyiDNc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #157: Binary Numbers & Bit Shifting](https://youtu.be/jSzmac4Rri8?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #156: word2vec & Seven-Segment Display](https://youtu.be/b8RwO1k9DXc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #155: Mastodon Image Bot with Processing](https://youtu.be/rkwn-7kZzjY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #154: Quick p5 web editor tutorials](https://youtu.be/tOJTDt1EtFU?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
