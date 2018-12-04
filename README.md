@@ -43,6 +43,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #161: Chaos Game & Quick, Draw! API](https://youtu.be/v8lm5XZ2V6M?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #160: ml5 Load/Save + Quick, Draw!](https://youtu.be/fnoOFQK3tPQ?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #159: Logo Interpreter Continued](https://youtu.be/kLIHhOEPHG0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #158: Logo Interpreter](https://youtu.be/flHxQpyiDNc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
