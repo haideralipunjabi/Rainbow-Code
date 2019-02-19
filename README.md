@@ -43,6 +43,12 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
+* [Live Stream #167: Mathematical Hearts + GIF Loops](https://youtu.be/_xa87yl0nd4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #166: Bouncing DVD Logo + Fluid Simulation](https://youtu.be/_LyC2l8g0R8?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #165.2: Finish KNN Example](https://youtu.be/mZFVOmQ_WGM?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #165.1: Finish Up Fourier + ml5 KNN](https://youtu.be/-VfWfi7Goik?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #164: Drawing with Fourier Transform](https://youtu.be/0b3R8oWffkw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #163: Toothpicks and Fourier Series](https://youtu.be/pKyU92cza0Y?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #162: Flocking Simulation("Boids")](https://youtu.be/qtUV-DoSOpk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #161: Chaos Game & Quick, Draw! API](https://youtu.be/v8lm5XZ2V6M?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #160: ml5 Load/Save + Quick, Draw!](https://youtu.be/fnoOFQK3tPQ?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
