@@ -43,17 +43,17 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * dialogflow
 
 # Past Live Streams
-* [Live Stream #167: Mathematical Hearts + GIF Loops](https://youtu.be/_xa87yl0nd4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Time to put away the noise loops!](https://youtu.be/EvOC_vyFAiI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Happy Pi Day!](https://youtu.be/78ZthTGcdPw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Rubik's Cube and Quicksort Visualization](https://youtu.be/277611ExU9A?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Livestream #170: Neuroevolution Steering Vehicles](https://youtu.be/mXDrH0wStHs?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Rubik's Cube continued...](https://youtu.be/GbHGGYSwVvY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #169: 4D OpenSimplexNoise Loops and ES6 Inheritance](https://youtu.be/O6dsGXhD0sc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #168: Perlin Noise Loops + JS Inheritance](https://youtu.be/7k-iJyHq7-k?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #167: Mathematical Hearts + GIF Loops](https://youtu.be/_xa87yl0nd4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Rubik's Cube (this time with matrix transformations!)](https://youtu.be/kFNZnZe92HA?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Simple 2D Black Hole Simulation and NeuroEvolution with TensorFlow.js](https://youtu.be/tWyp2OWWcws?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [2D Ray Casting and Ray Marching](https://youtu.be/-6iIc6-Y-kk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Coding Challenge #147: Neuroevolution Steering Vehicles](https://youtu.be/mXDrH0wStHs?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #167: Mathematical Hearts + GIF Loops](https://youtu.be/_xa87yl0nd4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #166: Bouncing DVD Logo + Fluid Simulation](https://youtu.be/_LyC2l8g0R8?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #165.2: Finish KNN Example](https://youtu.be/mZFVOmQ_WGM?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
