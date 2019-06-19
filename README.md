@@ -44,7 +44,6 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 
 # Past Live Streams
 * [Live Stream #176: Chrome Dinosaur Game + ml5 Speech Commands Model](https://youtu.be/eRy3j1Alzko?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Happy Pi Day!](https://youtu.be/78ZthTGcdPw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #175: Neuroevolution Steering Vehicles](https://youtu.be/mXDrH0wStHs?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #174: 2D Ray Casting and Ray Marching](https://youtu.be/-6iIc6-Y-kk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #173: Simple 2D Black Hole Simulation and NeuroEvolution with TensorFlow.js](https://youtu.be/tWyp2OWWcws?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
