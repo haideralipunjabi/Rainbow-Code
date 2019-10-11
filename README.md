@@ -243,4 +243,5 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #183: Brooklyn Studio, ml5.js Pitch Detection](https://youtu.be/1b9-O7pnUcg?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #183: Brooklyn Studio, ml5.js Pitch Detection](https://youtu.be/1b9-O7pnUcg?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #184:  uNet and BodyPix with ml5.js](https://youtu.be/jKHgVdyC55M?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #185:  building ml5.js, BodyPix, RDP algorithm](https://youtu.be/5S87w8IqSHI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 
