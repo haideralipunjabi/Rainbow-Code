@@ -245,4 +245,5 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #184:  uNet and BodyPix with ml5.js](https://youtu.be/jKHgVdyC55M?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #185: RDP Algorithm](https://youtu.be/5S87w8IqSHI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #186: Interactive Drawing with SketchRNN](https://youtu.be/GMaKcRkiNoM?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #187: Fractal #TeamTrees with Physics](https://youtu.be/HhceJ5xxl-4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 
