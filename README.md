@@ -220,6 +220,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #161: Chaos Game & Quick, Draw! API](https://youtu.be/v8lm5XZ2V6M?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #162: Flocking Simulation("Boids")](https://youtu.be/qtUV-DoSOpk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #163: Toothpicks and Fourier Series](https://youtu.be/pKyU92cza0Y?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream Archive: ITP Winter Show 2018](https://youtu.be/9B7zU-yyLAk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #164: Live from Le Tank Paris](https://youtu.be/yEYgXP04GpI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #165: Drawing with Fourier Transform](https://youtu.be/0b3R8oWffkw?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #166.1: Finish Up Fourier + ml5 KNN](https://youtu.be/-VfWfi7Goik?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
@@ -236,6 +237,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #176: Simple 2D Black Hole Simulation and NeuroEvolution with TensorFlow.js](https://youtu.be/tWyp2OWWcws?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #177: 2D Ray Casting and Ray Marching](https://youtu.be/-6iIc6-Y-kk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #178: Neuroevolution Steering Vehicles](https://youtu.be/mXDrH0wStHs?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream Archive: ITP IMA Spring Show 2019](https://youtu.be/XeorqDUubKI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #179: Chrome Dinosaur Game + ml5 Speech Commands Model](https://youtu.be/eRy3j1Alzko?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #180: Processing Java Library, Starting Computational Geometry Challenges](https://youtu.be/rnJgb-mYPEI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #181: Processing Library + Tic Tac Toe](https://youtu.be/Y6cMTh2BODY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
@@ -248,4 +250,5 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #187: Fractal #TeamTrees with Physics](https://youtu.be/HhceJ5xxl-4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #188: ml5.neuralNetwork](https://youtu.be/gaWNmLyJiUk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Introduction to D3.js with Shirley Wu](https://youtu.be/rQroxWLZiCo?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream Archive: ITP Winter Show 2019](https://youtu.be/11M3RLmayz8?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 
