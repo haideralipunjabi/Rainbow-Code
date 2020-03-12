@@ -250,4 +250,5 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #187: Fractal #TeamTrees with Physics](https://youtu.be/HhceJ5xxl-4?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #188: ml5.neuralNetwork](https://youtu.be/gaWNmLyJiUk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Introduction to D3.js with Shirley Wu](https://youtu.be/rQroxWLZiCo?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Searching for Digits in Pi](https://youtu.be/AkySW5uy7rU?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 
